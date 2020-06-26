@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/login_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/colorWhite">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/text_login"
+            android:textColor="#000"
+            android:layout_gravity="center"
+            android:textSize="20sp" />
+    </androidx.appcompat.widget.Toolbar>
+
+    <TextView
+        android:id="@+id/login_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:textSize="16sp"
+        android:textColor="@color/lightBlack"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="24dp"
+        android:text="@string/login_long_text"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:id="@+id/login_phone_number_layout"
+        style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:padding="0dp"
+        app:helperTextEnabled="true">
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/login_phone_number"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/text_phone_number_hint"
+            android:nextFocusDown="@id/login_certification_button"
+            android:inputType="phone"
+            android:maxLength="13"
+            android:textSize="16sp" />
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:orientation="horizontal">
+        <androidx.appcompat.widget.AppCompatButton
+            android:text="@string/text_certification_button"
+            style="@style/LoginButton"
+            android:enabled="false"
+            android:id="@+id/login_certification_button"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="48dp"
+            android:layout_marginStart="24dp"
+            android:elevation="1dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#FFF"
+            android:textSize="12sp"/>
+
+        <com.google.android.material.textfield.TextInputLayout
+            android:id="@+id/login_certification_layout"
+            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+            android:layout_width="0dp"
+            android:layout_weight="2.6"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="24dp"
+            android:nextFocusDown="@id/login_confirm"
+            android:padding="0dp">
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/login_certification"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="@string/text_certification_hint"
+                android:inputType="numberDecimal"
+                android:maxLength="6"
+                android:textSize="16sp" />
+        </com.google.android.material.textfield.TextInputLayout>
+    </LinearLayout>
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:enabled="false"
+        style="@style/LoginButton"
+        android:id="@+id/login_confirm"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:layout_marginTop="32dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginEnd="24dp"
+        android:elevation="1dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:text="@string/text_login"
+        android:textSize="16sp"/>
+</LinearLayout>

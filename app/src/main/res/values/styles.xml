@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorWhite</item>
+        <item name="colorPrimaryDark">@color/colorWhite</item>
+        <item name="colorAccent">@color/colorPrimary</item>
+    </style>
+    <style name="LoginEditTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/lightBlack</item>
+        <item name="android:textColorHint">@color/lightBlack</item>
+        <item name="colorControlNormal">@color/field_color</item>
+        <item name="colorControlActivated">@color/field_color</item>
+    </style>
+    <style name="BottomNavigation">
+        <item name="android:background">@color/colorWhite</item>
+        <item name="itemBackground">@drawable/nav_bg_color</item>
+        <item name="itemIconTint">@color/nav_color</item>
+        <item name="itemTextColor">@color/nav_color</item>
+    </style>
+    <style name="LoginButton" parent="Widget.AppCompat.Button.Borderless.Colored">
+        <item name="android:background">@drawable/login_button_background</item>
+        <item name="android:textColor">@drawable/login_button_text_color</item>
+    </style>
+</resources>
