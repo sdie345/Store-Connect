@@ -14,4 +14,7 @@
     <string name="text_chatting">대화</string>
     <string name="text_register">주문</string>
     <string name="text_main">메인</string>
+    <string name="text_register_fragment_toolbar">주문 하기</string>
+    <string name="text_register_fragment_title">제목을 입력해주세요.</string>
+    <string name="text_register_fragment_location">장소를 입력해주세요.</string>
 </resources>
