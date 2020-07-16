@@ -1,24 +1,30 @@
 <resources>
-    <string name="app_name">StroeConnect</string>
+    <string name="app_name">StoreConnect</string>
     <string name="title">매점\n커넥트</string>
-    <string name="text_login">로그인</string>
-    <string name="text_password_field">비밀번호를 입력해주세요.</string>
+    <string name="login">로그인</string>
+    <string name="password_field">비밀번호를 입력해주세요.</string>
     <string name="login_register">회원 가입</string>
     <string name="login_long_text">매점 커넥트 서비스는 전화번호 로그인을 사용합니다.</string>
-    <string name="text_phone_number_hint">전화번호를 입력해주세요.</string>
-    <string name="text_certification_hint">인증번호를 입력해주세요.</string>
-    <string name="text_certification_button">SMS 인증</string>
-    <!-- TODO: Remove or change this placeholder text -->
+    <string name="phone_number_hint">전화번호를 입력해주세요.</string>
+    <string name="certification_hint">인증번호를 입력해주세요.</string>
+    <string name="certification_button">SMS 인증</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="text_profile">프로필</string>
-    <string name="text_chatting">대화</string>
-    <string name="text_register">주문</string>
-    <string name="text_main">메인</string>
-    <string name="text_register_fragment_toolbar">주문 하기</string>
-    <string name="text_register_fragment_title">제목을 입력해주세요.</string>
-    <string name="text_register_fragment_location">장소를 입력해주세요.</string>
+    <string name="profile">프로필</string>
+    <string name="chatting">대화</string>
+    <string name="register">주문</string>
+    <string name="main">메인</string>
+    <string name="register_fragment_toolbar">주문 하기</string>
+    <string name="register_fragment_title">제목을 입력해주세요.</string>
+    <string name="register_fragment_location">장소를 입력해주세요.</string>
     <string name="cancel">취소</string>
-    <string name="text_total_price">총 금액 :</string>
-    <string name="text_register_fragment_description">설명을 써주세요.</string>
+    <string name="total_price">총 금액 :</string>
+    <string name="register_fragment_description">설명을 써주세요.</string>
     <string name="text_sample">sample</string>
+    <string name="no_order">현재 들어온 요청이 없어요.</string>
+    <string name="sample_user">User00</string>
+    <string name="manner_temperature">매너 온도</string>
+    <string name="base_temperature">36.5℃</string>
+    <string name="order_list">주문 내역</string>
+    <string name="delivery_list">배달 내역</string>
+    <string name="settings">설정</string>
 </resources>

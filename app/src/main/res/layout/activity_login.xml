@@ -16,7 +16,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="center"
             android:gravity="center"
-            android:text="@string/text_login"
+            android:text="@string/login"
             android:textColor="#000"
             android:textSize="20sp" />
     </androidx.appcompat.widget.Toolbar>
@@ -46,7 +46,7 @@
             android:id="@+id/login_phone_number"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/text_phone_number_hint"
+            android:hint="@string/phone_number_hint"
             android:inputType="phone"
             android:maxLength="13"
             android:nextFocusDown="@id/login_certification_button"
@@ -69,7 +69,7 @@
             android:elevation="1dp"
             android:enabled="false"
             android:gravity="center"
-            android:text="@string/text_certification_button"
+            android:text="@string/certification_button"
             android:textColor="#FFF"
             android:textSize="12sp"
             android:textStyle="bold" />
@@ -89,7 +89,7 @@
                 android:id="@+id/login_certification"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="@string/text_certification_hint"
+                android:hint="@string/certification_hint"
                 android:inputType="numberDecimal"
                 android:maxLength="6"
                 android:textSize="16sp" />
@@ -107,7 +107,7 @@
         android:elevation="1dp"
         android:enabled="false"
         android:gravity="center"
-        android:text="@string/text_login"
+        android:text="@string/login"
         android:textSize="16sp"
         android:textStyle="bold" />
 </LinearLayout>

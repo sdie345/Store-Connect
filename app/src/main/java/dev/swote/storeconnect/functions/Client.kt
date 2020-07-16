@@ -7,7 +7,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory
 import retrofit2.converter.gson.GsonConverterFactory
 import java.util.concurrent.TimeUnit
 
-object Client{
+object Client {
     var retrofitService: API
     init {
         val interceptor = HttpLoggingInterceptor()
