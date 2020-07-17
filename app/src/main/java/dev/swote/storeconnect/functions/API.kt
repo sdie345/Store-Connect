@@ -1,8 +1,7 @@
 package dev.swote.storeconnect.functions
 
-import dev.swote.storeconnect.models.Arg
-import dev.swote.storeconnect.models.Order
-import dev.swote.storeconnect.models.UserData
+import android.telephony.cdma.CdmaCellLocation
+import dev.swote.storeconnect.models.*
 import io.reactivex.Single
 import okhttp3.Cookie
 import retrofit2.Call
@@ -25,4 +24,9 @@ interface API {
     @POST("getOrderList")
     @FormUrlEncoded
     fun getOrderList(@Header("Authorization") session: String?): Call<Arg<Order>>
-}8
+
+    @POST("register")
+    @FormUrlEncoded
+    fun register(@Header("Authorization") session: String?, @Field("title") title: String, @Field("location") location: String, @Field("description") description: String, @Field("foodList") foodList: ArrayList<Food>)
+    :  Call<Basic>
+}

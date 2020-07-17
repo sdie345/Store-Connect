@@ -1,5 +1,6 @@
 package dev.swote.storeconnect.activitys
 
+import android.media.Image
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.viewpager2.widget.ViewPager2
@@ -7,12 +8,16 @@ import com.google.android.material.bottomnavigation.BottomNavigationItemView
 import com.google.android.material.bottomnavigation.BottomNavigationView
 import dev.swote.storeconnect.R
 import dev.swote.storeconnect.adapter.PagerAdapter
+import dev.swote.storeconnect.functions.ImageHelper
+import dev.swote.storeconnect.models.Food
 
 class MainActivity : AppCompatActivity() {
 
     lateinit var pager : ViewPager2
-    lateinit var pagerAdapter: PagerAdapter
-    lateinit var bottomNavigation: BottomNavigationView
+    lateinit var pagerAdapter : PagerAdapter
+    lateinit var bottomNavigation : BottomNavigationView
+    lateinit var imageHelper : ImageHelper
+    var foodToImage : HashMap<Food, Image> = HashMap()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -40,5 +45,8 @@ class MainActivity : AppCompatActivity() {
             }
             true
         }
+
+        imageHelper.initFoodData(this)
+        imageHelper.initImageData(this)
     }
 }

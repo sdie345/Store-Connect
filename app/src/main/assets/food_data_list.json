@@ -1,0 +1,857 @@
+[
+  {
+    "name": "가나초콜릿 드링크",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "갈아만든 배",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "포카리스웨트(355ml)",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "파워에이드(355ml)",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "샤인 온더 비치",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "마운틴 듀",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "한라봉 에이드",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "코코팜 복숭아",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "코코팜 망고",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "코코팜 화이트 요거트",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "잔치집 식혜",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "프루티 복숭아티",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "핑크복숭아 에이드",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "블루레몬에이드",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "애플망고 캔",
+    "price": 1000,
+    "type": "drink"
+  },
+  {
+    "name": "마신다",
+    "price": 700,
+    "type": "drink"
+  },
+  {
+    "name": "피크닉 청포도",
+    "price": 500,
+    "type": "drink"
+  },
+  {
+    "name": "피크닉 사과",
+    "price": 500,
+    "type": "drink"
+  },
+  {
+    "name": "델몬트 망고 드링크",
+    "price": 500,
+    "type": "drink"
+  },
+  {
+    "name": "복숭아녹차",
+    "price": 1300,
+    "type": "drink"
+  },
+  {
+    "name": "레몬녹차",
+    "price": 1300,
+    "type": "drink"
+  },
+  {
+    "name": "애플망고",
+    "price": 1300,
+    "type": "drink"
+  },
+  {
+    "name": "알로에",
+    "price": 1300,
+    "type": "drink"
+  },
+  {
+    "name": "제주감귤",
+    "price": 1300,
+    "type": "drink"
+  },
+  {
+    "name": "하늘보리",
+    "price": 1500,
+    "type": "drink"
+  },
+  {
+    "name": "옥수수수염차",
+    "price": 1500,
+    "type": "drink"
+  },
+  {
+    "name": "팬돌이",
+    "price": 1200,
+    "type": "drink"
+  },
+  {
+    "name": "모히또",
+    "price": 1200,
+    "type": "drink"
+  },
+  {
+    "name": "오투 파워 오렌지",
+    "price": 2000,
+    "type": "drink"
+  },
+  {
+    "name": "오투 파워 사과",
+    "price": 2000,
+    "type": "drink"
+  },
+  {
+    "name": "파워에이드(600ml)",
+    "price": 2000,
+    "type": "drink"
+  },
+  {
+    "name": "포카리스웨트(500ml)",
+    "price": 1800,
+    "type": "drink"
+  },
+  {
+    "name": "이온워터",
+    "price": 1800,
+    "type": "drink"
+  },
+  {
+    "name": "토레타",
+    "price": 1800,
+    "type": "drink"
+  },
+  {
+    "name": "립톤",
+    "price": 1800,
+    "type": "drink"
+  },
+  {
+    "name": "데일리 C 레몬워터",
+    "price": 1800,
+    "type": "drink"
+  },
+  {
+    "name": "포카리스웨트(1500ml)",
+    "price": 2500,
+    "type": "drink"
+  },
+  {
+    "name": "김치 날치알밥",
+    "price": 4000,
+    "type": "cup_bob"
+  },
+  {
+    "name": "낙지 콩나물 비빔밥",
+    "price": 4000,
+    "type": "cup_bob"
+  },
+  {
+    "name": "버터장조림 비빔밥",
+    "price": 4000,
+    "type": "cup_bob"
+  },
+  {
+    "name": "스팸마요덮밥",
+    "price": 4000,
+    "type": "cup_bob"
+  },
+  {
+    "name": "치킨마요 덮밥",
+    "price": 4000,
+    "type": "cup_bob"
+  },
+  {
+    "name": "새콤달콤 레모네이드",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "새콤달콤 복숭아",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "새콤달콤 블루베리 소다",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "새콤달콤 포도",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "7 Chew 청포도",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "게메즈 에낙 스파이시",
+    "price": 300,
+    "type": "candy"
+  },
+  {
+    "name": "자유시간",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "크런키",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "가나 초콜릿",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "구미구미 젤리셔스",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "호올스",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "비타500 젤리",
+    "price": 1000,
+    "type": "candy"
+  },
+  {
+    "name": "마이쮸 사과",
+    "price": 800,
+    "type": "candy"
+  },
+  {
+    "name": "마이쮸 포도",
+    "price": 800,
+    "type": "candy"
+  },
+  {
+    "name": "마이쮸 딸기",
+    "price": 800,
+    "type": "candy"
+  },
+  {
+    "name": "짱셔요 콜라",
+    "price": 700,
+    "type": "candy"
+  },
+  {
+    "name": "꼬미볼 소다",
+    "price": 700,
+    "type": "candy"
+  },
+  {
+    "name": "꼬미볼 포도",
+    "price": 700,
+    "type": "candy"
+  },
+  {
+    "name": "새콤짱 사과",
+    "price": 700,
+    "type": "candy"
+  },
+  {
+    "name": "트롤리 애플링",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "트롤리 사구어",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "트롤리 구미 믹스",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "트롤리 피치링",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "트롤리 트로픽 오스",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "하리보 골든베어",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "하리보 프루티 부시",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "몰티져스",
+    "price": 2000,
+    "type": "candy"
+  },
+  {
+    "name": "미쯔",
+    "price": 900,
+    "type": "candy"
+  },
+  {
+    "name": "몽쉘",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "초코파이",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "찰떡파이",
+    "price": 500,
+    "type": "candy"
+  },
+  {
+    "name": "리콜라 레몬민트",
+    "price": 2500,
+    "type": "candy"
+  },
+  {
+    "name": "리콜라 크랜베리",
+    "price": 2500,
+    "type": "candy"
+  },
+  {
+    "name": "김치 통통만두",
+    "price": 1800,
+    "type": "frozen_food"
+  },
+  {
+    "name": "맛스타",
+    "price": 1500,
+    "type": "frozen_food"
+  },
+  {
+    "name": "산동 찐만두 매운맛",
+    "price": 1800,
+    "type": "frozen_food"
+  },
+  {
+    "name": "산동 찐만두",
+    "price": 1800,
+    "type": "frozen_food"
+  },
+  {
+    "name": "포켓치킨 데리야끼",
+    "price": 3000,
+    "type": "frozen_food"
+  },
+  {
+    "name": "포켓치킨 양념치킨",
+    "price": 3000,
+    "type": "frozen_food"
+  },
+  {
+    "name": "구운란",
+    "price": 1500,
+    "type": "others"
+  },
+  {
+    "name": "대만 샌드위치",
+    "price": 1800,
+    "type": "others"
+  },
+  {
+    "name": "아이스쿨",
+    "price": 1700,
+    "type": "ice_cream"
+  },
+  {
+    "name": "파르페",
+    "price": 1700,
+    "type": "ice_cream"
+  },
+  {
+    "name": "구구콘",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "녹차연인",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "돼지콘",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "더블 비얀코",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "부리또 피스타치오",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "빵빠레",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "슈팅스타콘 트리컬러",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "슈퍼콘 딸기",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "슈퍼콘 바닐라",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "옥동자콘",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "월드콘",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "잇츠 와플",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "와",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "쿠키오",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "크런치킹",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "설레임",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "찰옥수수",
+    "price": 1500,
+    "type": "ice_cream"
+  },
+  {
+    "name": "빠삐코",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "모구모구 리치아이스",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "젤루조아 오렌지",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "젤루조아 청포도",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "탱크보이 모히또",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "탱크보이 시칠리아 레몬",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "탱크보이 애플젤리",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "탱크보이 청포도",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "탱크보이",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "토마토마",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "더위사냥",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "뽕따",
+    "price": 1000,
+    "type": "ice_cream"
+  },
+  {
+    "name": "돼지바 블랙",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "와일드바디",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "초코퍼지",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "생귤탱귤 감귤",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "요맘때 딸기",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "쿠앤크",
+    "price": 800,
+    "type": "ice_cream"
+  },
+  {
+    "name": "오잉",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "칸츄리콘",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "도리토스",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "오집어칩",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "허니버터칩",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "갈릭 바게트",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "홈런볼",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "츄러스",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "도도한 나쵸",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "대단한 나쵸",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "맛볼",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "콘초",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "꼬깔콘",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "빼빼로 오리지널",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "빼빼로 누드",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "빼빼로 아몬드",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "포키 극세",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "쿠크다스",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "쿠크다스 커피",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "허쉬초코크림",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "오레오",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "오사쯔",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "스윙칩 간장치킨",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "스윙칩",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "프링글스 미니 사워크림",
+    "price": 1500,
+    "type": "snack"
+  },
+  {
+    "name": "칸초",
+    "price": 1000,
+    "type": "snack"
+  },
+  {
+    "name": "뿌셔뿌셔 양념치킨",
+    "price": 1000,
+    "type": "snack"
+  },
+  {
+    "name": "뿌셔뿌셔 바비큐",
+    "price": 1000,
+    "type": "snack"
+  },
+  {
+    "name": "뿌셔먹는 불닭",
+    "price": 1000,
+    "type": "snack"
+  },
+  {
+    "name": "매운맛 콘칩",
+    "price": 500,
+    "type": "snack"
+  },
+  {
+    "name": "감자알칩",
+    "price": 500,
+    "type": "snack"
+  },
+  {
+    "name": "초코팅쵹",
+    "price": 500,
+    "type": "snack"
+  },
+  {
+    "name": "라볶이",
+    "price": 500,
+    "type": "snack"
+  },
+  {
+    "name": "쌀떡볶이",
+    "price": 500,
+    "type": "snack"
+  },
+  {
+    "name": "나나콘",
+    "price": 600,
+    "type": "snack"
+  },
+  {
+    "name": "맛새우칩",
+    "price": 1300,
+    "type": "snack"
+  },
+  {
+    "name": "팝콘 버터갈릭",
+    "price": 1300,
+    "type": "snack"
+  },
+  {
+    "name": "추억의 건빵",
+    "price": 1300,
+    "type": "snack"
+  },
+  {
+    "name": "바베큐맛 스낵",
+    "price": 1200,
+    "type": "snack"
+  },
+  {
+    "name": "미니 초코칩",
+    "price": 1200,
+    "type": "snack"
+  },
+  {
+    "name": "빈츠",
+    "price": 1800,
+    "type": "snack"
+  },
+  {
+    "name": "ABC초콜릿",
+    "price": 2000,
+    "type": "snack"
+  },
+  {
+    "name": "프링글스 오리지널",
+    "price": 3000,
+    "type": "snack"
+  },
+  {
+    "name": "프링글스 치즈",
+    "price": 3000,
+    "type": "snack"
+  },
+  {
+    "name": "프링글스 사워크림",
+    "price": 3000,
+    "type": "snack"
+  },
+  {
+    "name": "스폰지 크런치",
+    "price": 2000,
+    "type": "snack"
+  },
+  {
+    "name": "피아토스 사워크림",
+    "price": 1200,
+    "type": "snack"
+  },
+  {
+    "name": "피아토스 치즈",
+    "price": 1200,
+    "type": "snack"
+  },
+  {
+    "name": "피아토스 바비큐",
+    "price": 1200,
+    "type": "snack"
+  },
+  {
+    "name": "펀바이츠",
+    "price": 1000,
+    "type": "snack"
+  },
+  {
+    "name": "베이비스타",
+    "price": 1000,
+    "type": "snack"
+  }
+]
